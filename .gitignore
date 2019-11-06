@@ -1,0 +1,14 @@
+Library/PackageCache/
+Temp/
+Library/StateCache/
+Library/ShaderCache/
+Library/metadata/
+*.meta
+.vs/Hunters Gambit/v16/.suo
+.vs/Hunters Gambit/v16/Server/sqlite3/db.lock
+.vs/Hunters Gambit/v16/Server/sqlite3/storage.ide
+.vs/Hunters Gambit/v16/Server/sqlite3/storage.ide-shm
+.vs/Hunters Gambit/v16/Server/sqlite3/storage.ide-wal
+Library/ShaderCache.db
+*.log
+*.cache
